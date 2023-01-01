@@ -1,0 +1,6 @@
+enable 
+conf
+vlan 50
+name fifty
+vlan 60 
+name sixty
